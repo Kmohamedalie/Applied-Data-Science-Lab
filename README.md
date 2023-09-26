@@ -1,4 +1,4 @@
-# Applied-Data-Science-Lab
+# WorldQuant University Applied Data Science Lab
 
 <div align="center">
 
