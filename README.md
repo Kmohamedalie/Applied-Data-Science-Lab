@@ -3,7 +3,7 @@
 <div align="center">
 
   
-![[image](https://www.credly.com/badges/9b3609c5-d65e-496a-92c5-0dea043ecaa1/public_url)](https://github.com/Kmohamedalie/Applied-Data-Science-Lab/assets/63104472/8d73489b-da31-4200-aa4c-cc90043d93a9)
+![https://www.credly.com/badges/9b3609c5-d65e-496a-92c5-0dea043ecaa1/public_url](https://github.com/Kmohamedalie/Applied-Data-Science-Lab/assets/63104472/8d73489b-da31-4200-aa4c-cc90043d93a9)
 
 
 </div>
