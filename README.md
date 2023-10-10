@@ -23,7 +23,7 @@ Earners of this badge have completed eight end-to-end, applied data science proj
 * SQL
 * Statistics
 
-
+ 
 
 
 
