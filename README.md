@@ -2,8 +2,9 @@
   
 <div align="center">
 
-  
-![https://www.credly.com/badges/9b3609c5-d65e-496a-92c5-0dea043ecaa1/public_url](https://github.com/Kmohamedalie/Applied-Data-Science-Lab/assets/63104472/8d73489b-da31-4200-aa4c-cc90043d93a9)
+
+<img width="266" alt="applied-data-science-lab 2" src="https://github.com/user-attachments/assets/ea568234-c718-46f8-aa2f-90251126e239" />
+
 
 [Credly verification](https://www.credly.com/badges/9b3609c5-d65e-496a-92c5-0dea043ecaa1/public_url)
 </div>
